@@ -1,4 +1,8 @@
-# 技能名称：hipc_config_manager HIPC 配置管理
+---
+name: hipc_config_manager
+description: hipc秘钥设置，HIPC 系列技能的核心前置组件，用于管理 API 密钥（`hipc_secret`）的生命周期。当用户需要使用hipc技能时，设置秘钥，使用环境。
+argument-hint: "[秘钥]"
+---
 
 ## 技能描述
 此技能是 HIPC 系列技能的**核心前置组件**，用于管理 API 密钥（`hipc_secret`）的生命周期。
